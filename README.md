@@ -4,13 +4,15 @@
 
 
 #### 📬 Find me at
-[![Github Badge](http://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=twitter&logoColor=white&link=https://github.com/Sghosh1999)](https://github.com/Sghosh1999) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayantan-ghosh1999/)](https://linkedin.com/in/sayantan-ghosh1999) [![Kaggle Badge](http://img.shields.io/badge/-Kaggle-black?style=for-the-badge&logo=kaggle&link=https://www.kaggle.com/sghosh99/)](https://www.kaggle.com/sghosh99) [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium&link=https://medium.com/@gsayantan1999)](https://medium.com/@gsayantan1999)
+[![Github Badge](http://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=twitter&logoColor=white&link=https://github.com/Sghosh1999)](https://github.com/Sghosh1999) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayantan-ghosh1999/)](https://linkedin.com/in/sayantan-ghosh1999) [![Kaggle Badge](http://img.shields.io/badge/-Kaggle-black?style=for-the-badge&logo=kaggle&link=https://www.kaggle.com/sghosh99/)](https://www.kaggle.com/sghosh99) [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium&link=https://medium.com/@gsayantan1999)](https://medium.com/@gsayantan1999) 
+
 
 🚀 Results-driven Data Scientist with 4 years of relevant experience, specializing in Generative AI, Azure ML, and ML solution design. AWS Verified Machine Learning Specialist, with expertise in developing scalable AI solutions across supply chain management, Text2SQL agents, and healthcare domains. Proficient in deploying enterprise-level ML applications on Azure, driving operational efficiency and business impact.
 
 Skilled in leveraging cutting-edge AI technologies in Machine Learning, Deep Learning, and NLP, with a strong focus on RAG Architecture, Prompt Engineering, and Information Retrieval. Proven ability to collaborate with cross-functional teams, optimize AI workflows, and drive revenue growth. Passionate about AI solution architecture and LLM fine-tuning, enabling organizations to innovate and scale with AI-driven strategies.
 
 ⸻
+
 
 ## Career Highlights
 
@@ -37,6 +39,15 @@ Skilled in leveraging cutting-edge AI technologies in Machine Learning, Deep Lea
   • **Soft Skills:** Leadership, Event Management, Public Speaking, Time Management\
 
 **Resume**: [Resume Link](https://drive.google.com/file/d/1ySZADTiPi7ZfZi1m0wO4pxmHakjp9t9x/view?usp=sharing)
+
+<p align="center">  
+    <a href="https://drive.google.com/file/d/1ySZADTiPi7ZfZi1m0wO4pxmHakjp9t9x/view?usp=sharing">  
+        <img src="https://img.shields.io/badge/Resume-%2300D1E0.svg?style=flat-square&logo=google-drive&logoColor=white"/>  
+    </a>  
+</p>  
+
+
+⸻
 
 ### Technical Expertise:
 
