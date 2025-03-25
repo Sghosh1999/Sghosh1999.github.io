@@ -1,23 +1,41 @@
 # 👋 Hey there! Thanks for visiting my Portfolio. 
 
-## A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+<img align="right" alt="Portfolio Image" src="https://github.com/Sghosh1999/Sghosh1999.github.io/blob/main/portfolio_img.jpg" width="200" />
 
-I am a self-driven 👨‍💻, self-taught 🎓, and highly motivated🤓 young Machine Learning Practitioner, passionate about developing cutting-edge AI technologies 💫 to solve real-world problems.  <br/>
+#### 📬 Find me at
+[![Github Badge](http://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=twitter&logoColor=white&link=https://github.com/Sghosh1999)](https://github.com/Sghosh1999) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayantan-ghosh1999/)](https://linkedin.com/in/sayantan-ghosh1999) [![Kaggle Badge](http://img.shields.io/badge/-Kaggle-black?style=for-the-badge&logo=kaggle&link=https://www.kaggle.com/sghosh99/)](https://www.kaggle.com/sghosh99) [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium&link=https://medium.com/@gsayantan1999)](https://medium.com/@gsayantan1999)
 
-<br/>
+🚀 Results-driven Data Scientist with 4 years of relevant experience, specializing in Generative AI, Azure ML, and ML solution design. AWS Verified Machine Learning Specialist, with expertise in developing scalable AI solutions across supply chain management, Text2SQL agents, and healthcare domains. Proficient in deploying enterprise-level ML applications on Azure, driving operational efficiency and business impact.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-**Talking about Personal Stuffs:**
+Skilled in leveraging cutting-edge AI technologies in Machine Learning, Deep Learning, and NLP, with a strong focus on RAG Architecture, Prompt Engineering, and Information Retrieval. Proven ability to collaborate with cross-functional teams, optimize AI workflows, and drive revenue growth. Passionate about AI solution architecture and LLM fine-tuning, enabling organizations to innovate and scale with AI-driven strategies.
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- I have 3 years of experience, specializing in Python and expertise in the latest Generative AI concepts including Large Language Models (LLMs) like GPT, RAG (Retrieval-Augmented Generation), Embedding, and Information Retrieval from unstructured documents (NLP concepts).
-- Additionally, I have a sound understanding of Statistics, classical ML concepts, and deep learning algorithms.
-- I have strong capabilities in MLOps, including Azure ML, and end-to-end deployment processes.
-- Currently, I'm delving into Natural Language Processing (NLP) and learning how to build complex RAG pipelines for information retrieval using unstructured documents.
-- I'm also expanding my expertise to include dynamic Time Series Forecasting pipelines.
-- 💬 Ask me about anything, I am happy to help;
-- 📝[Resume]([https://drive.google.com/drive/folders/105Tdrd5TnMvNK0SBw2yc408bE-vbCLjb](https://drive.google.com/file/d/1HE9bFXTYBg4eWrvDjWXrJs4x7zfD_NND/view?usp=sharing))
+⸻
+
+## Career Highlights
+
+⚡ 4.5+ years of expertise in ML, NLP, Deep Learning, and Python.\
+⚡ Specialized in NLP, BERT, Sentiment Analysis, Topic Modeling, RAG Architecture, and Prompt Engineering.\
+⚡ Expert in Prompting Techniques (CoT, ToT) for NP-hard problems, including RAG using LangChain, VectorDB, Embeddings, and Information Retrieval from unstructured documents.\
+⚡ Strong foundation in Statistics, Classical ML (Decision Trees, XGBoost, GBM), Optimization, and Deep Learning.\
+⚡ Experienced in Azure Infrastructure, designing and deploying highly scalable systems in Microservices architecture (Service Bus, Azure Functions).\
+⚡ Leading a team of 2 on 4 GenAI PoCs, including designing AI-enabled multi-agent Tax Copilot Chatbot Systems.\
+⚡ Skilled in Open Source LLM fine-tuning (PEFT, LoRA) and Transformer architectures.\
+⚡ Top 5% Rank holder in ML/DL Hackathons (HackerEarth).\
+⚡ Published 2 h-index Conference Papers.\
+⚡ Skilled in Azure Document Intelligence.
+
+⸻
+
+## ✅ Skills
+
+  • **Languages:** Python, SQL, R, LaTeX\
+  • **Frameworks:** Scikit-learn, LangChain, VectorDB, NLTK, SpaCy, 
+  • **Keras, Flask:**, Streamlit, R-Shiny, RAG\
+  • **Cloud & Tools:** AWS ML, GIT, Huggingface, Bitbucket, MySQL, Databricks, Azure ML Studio, Azure Document Intelligence\
+  • **Platforms:** Web, Windows, Azure\
+  • **Soft Skills:** Leadership, Event Management, Public Speaking, Time Management\
+
+**Resume**: [Resume Link](https://drive.google.com/file/d/1ySZADTiPi7ZfZi1m0wO4pxmHakjp9t9x/view?usp=sharing)
 
 ### Technical Expertise:
 
@@ -29,31 +47,22 @@ I am a self-driven 👨‍💻, self-taught 🎓, and highly motivated🤓 young
 
 Feel free to reach out if you want to discuss AI, ML, or anything tech-related!
 
-
-
-
-
-
-
-
 ##  🤹 Skill Zone
-<p align="center">
-<img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=flat-square&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013220?&style=flat-square&logo=numpy"/> <img src="https://img.shields.io/badge/Pandas-130654?&style=flat-square&logo=pandas"/> <img src="https://img.shields.io/badge/Scikit--Learn-grey?&style=flat-square&logo=scikit-learn"/> 
-</p>
+<p align="center"> <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=flat-square&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013220?&style=flat-square&logo=numpy"/> <img src="https://img.shields.io/badge/Pandas-130654?&style=flat-square&logo=pandas"/> <img src="https://img.shields.io/badge/Scikit--Learn-grey?&style=flat-square&logo=scikit-learn"/> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Azure-0078D4.svg?&style=flat-square&logo=microsoftazure&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=r&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-3B0A45.svg?&style=flat-square&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B37.svg?&style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/MLflow-7F4EF3.svg?&style=flat-square&logo=mlflow&logoColor=white"/> <img src="https://img.shields.io/badge/Databricks-FFB15D.svg?&style=flat-square&logo=databricks&logoColor=white"/> <img src="https://img.shields.io/badge/Langchain-4A9D4E.svg?&style=flat-square&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/Langgraph-1E53DA.svg?&style=flat-square&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/CrewAI-4C75C4.svg?&style=flat-square&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2D.svg?&style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/XGBoost-3C34A4.svg?&style=flat-square&logo=xgboost&logoColor=white"/> <img src="https://img.shields.io/badge/LORA-FF8C00.svg?&style=flat-square&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/QLORA-FF8C00.svg?&style=flat-square&logo=&logoColor=white"/> </p>
 
 
-#### 📬 Find me at
-[![Github Badge](http://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=twitter&logoColor=white&link=https://github.com/Sghosh1999)](https://github.com/Sghosh1999) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayantan-ghosh1999/)](https://linkedin.com/in/sayantan-ghosh1999) [![Kaggle Badge](http://img.shields.io/badge/-Kaggle-black?style=for-the-badge&logo=kaggle&link=https://www.kaggle.com/sghosh99/)](https://www.kaggle.com/sghosh99) [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium&link=https://medium.com/@gsayantan1999)](https://medium.com/@gsayantan1999)
 
 	
 # Research & Publications:
 
 I have publised two research papers. You can see the edescription below.
 
-| No. |                                  Decription                                  |                                                                                           Published                                                                                            |      GitHub Repo      |                       Link to Publication                        | 
-| :-: | :------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: | :---------------------------------------------------: |
-|  1.  |  Detection of Coronavirus(Covid19) disease using Deep Convolutional Neural Networks with Transfer Learning using chest X-Ray Images  |   Under Review |       [Code](https://github.com/Sghosh1999/Fine-Tuned-VGG16-Transfer-learning-Based-Covid19-Xray)         |  [Link](https://link.springer.com/chapter/10.1007/978-981-16-0935-0_4) |
-|  2.  |    MLAI: An Integrated Automated Software Platform to Solve Machine Learning Problems| Published | [Link](https://github.com/Sghosh1999/AlphaAI-Minor-Project-6th-Sem) | [Link](https://link.springer.com/chapter/10.1007/978-981-15-8685-9_7)|
+| No. |                                  Description                                   |            Published           |                     GitHub Repo                     |                        Link to Publication                        |  
+| :-: | :---------------------------------------------------------------------------: | :----------------------------: | :------------------------------------------------: | :--------------------------------------------------------------: |  
+|  1. | Detection of Coronavirus (Covid19) using Deep Convolutional Neural Networks with Transfer Learning using chest X-Ray Images |        Under Review           | [Code](https://github.com/Sghosh1999/Fine-Tuned-VGG16-Transfer-learning-Based-Covid19-Xray) | [Link](https://link.springer.com/chapter/10.1007/978-981-16-0935-0_4) |  
+|  2. | MLAI: An Integrated Automated Software Platform to Solve Machine Learning Problems |           Published            | [Link](https://github.com/Sghosh1999/AlphaAI-Minor-Project-6th-Sem) | [Link](https://link.springer.com/chapter/10.1007/978-981-15-8685-9_7) |  
+|  3. | Topic Classification using BERT: A Deep Dive into Natural Language Processing |           Published            |                     N/A                            | [Link](https://medium.com/@gsayantan1999/topic-classification-using-bert-9b9660861a72) |  
+|  4. | Vision Transformer (ViT) Decoded: A New Era in Computer Vision               |           Published            |                     N/A                            | [Link](https://medium.com/@gsayantan1999/vision-transformer-vit-decoded-a-new-era-in-computer-vision-8d3df7434821) |  
 
 	
 	
@@ -80,6 +89,6 @@ The following table contains all the code bases of the competitions that I parti
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sghosh1999&show_icons=true&theme=gotham" alt="Sghosh1999" /> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sghosh1999&show_icons=true&theme=gotham" alt="Sghosh1999" />
 
 
