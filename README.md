@@ -1,6 +1,6 @@
 # 👋 Hey there! Thanks for visiting my Portfolio. 
 
-<img align="right" alt="Portfolio Image" src="https://github.com/Sghosh1999/Sghosh1999.github.io/blob/main/portfolio_img.jpg?raw=true" width="200" />
+<img align="right" alt="Portfolio Image" src="https://github.com/Sghosh1999/Sghosh1999.github.io/blob/main/portfolio_image.jpg?raw=true" width="200" />
 
 
 #### 📬 Find me at
